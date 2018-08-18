@@ -1,10 +1,3 @@
-# University-Enrollment-System-With-JAVA
-Simple University Enrollement system done with Java Netbeans.
+# Course-Enrollment-System-With-JAVA
 
-Swing API has used.
-
-MVC architecture.
-
-Nimbus User Inteface.
-
-
+Please refer to https://github.com/AsithaIndrajith/Course-Enrollment-System-With-JAVA/blob/master/documentation.pdf link .
