@@ -1,3 +1,3 @@
-# Course-Enrollment-System-With-JAVA
+# Course-Enrollment-System
 
-Please refer to https://github.com/AsithaIndrajith/Course-Enrollment-System-With-JAVA/blob/master/documentation.pdf link .
+README FILE: https://github.com/AsithaIndrajith/Course-Enrollment-System-With-JAVA/blob/master/documentation.pdf link .
